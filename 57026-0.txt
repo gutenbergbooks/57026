@@ -1,31 +1,7 @@
-Project Gutenberg's The Last of the Bushrangers, by Francis Augustus Hare
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Last of the Bushrangers
-
-Author: Francis Augustus Hare
-
-Release Date: April 23, 2018 [EBook #57026]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE LAST OF THE BUSHRANGERS ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57026 ***
 
 
 
-
-Produced by deaurider, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-book was produced from images made available by the
-HathiTrust Digital Library.)
 
 
 
@@ -101,7 +77,7 @@ CONTENTS.
   CHAPTER III.
 
   Power the Bushranger--His Escape--The Squatter's Gold
-  Watch--£500 Blood-money--A Peacock as a Sentinel--Caught
+  Watch--Â£500 Blood-money--A Peacock as a Sentinel--Caught
   by the Heels--Some of Power's Adventures--His
   Sentence--Gamekeeper to Sir William Clarke                          55
 
@@ -134,7 +110,7 @@ CONTENTS.
   The Police at Euroa--Aaron Sherritt--Jerilderie--Capture of
   the Police Station and Constables--Amateur Policemen--The
   Royal Hotel stuck up--Raid on the Bank of New
-  South Wales--£2000 taken--Kelly's Autobiography--His
+  South Wales--Â£2000 taken--Kelly's Autobiography--His
   Account of the Fitzpatrick Affair--Departure of the Gang--Return
   to their Haunts                                                    137
 
@@ -260,7 +236,7 @@ of four men, who for the previous two years had set law, order, the
 government, and police at absolute defiance.
 
 Nor is it much more easy of credence that the capture of this gang
-should have cost the state, from first to last, over £115,000. And yet
+should have cost the state, from first to last, over Â£115,000. And yet
 these are facts which cannot be controverted.
 
 The first feeling that will arise in the minds of English people
@@ -268,7 +244,7 @@ on reading this, will be one of wonder. How came it that four men
 should have been able for two years to carry on their career of crime
 unchecked? And what were the police doing? The police, and I speak
 from actual knowledge, were doing their "level best." A reward of
-£8,000 was offered for the capture of the men, dead or alive, and
+Â£8,000 was offered for the capture of the men, dead or alive, and
 there was _kudos_ and promotion to be gained. But there were peculiar
 difficulties connected with this undertaking, difficulties which could
 arise in no other country. Firstly, it must be remembered that these
@@ -335,7 +311,7 @@ Collins and Bourke Streets were wedding-parties. Diggers used to come
 from the diggings with pounds' weight of gold, for the purpose, as
 they called it, of "knocking it down," and they managed to do this in
 a marvellously short space of time. You would hear of a man calling
-for two or three dozen of champagne (£1 per bottle), throwing it into
+for two or three dozen of champagne (Â£1 per bottle), throwing it into
 a tub, and having a bath in it. Again, men would call for two slices
 of bread, put a ten-pound note between them, and eat the note and
 bread as a sandwich. Hardly a day passed without seeing six or seven
@@ -419,7 +395,7 @@ days, but now known as Beechworth--a few days before Christmas, 1852.
 
 The first thing, we set to work to make our Christmas dinner--I
 remember it as though it were yesterday. I bought the materials for a
-plum pudding; for a dozen of eggs I gave £1. I forget the prices of
+plum pudding; for a dozen of eggs I gave Â£1. I forget the prices of
 the raisins, &c., but I shall never forget the pudding! We boiled it
 for twenty-four hours!--it took us a week to digest--it was as hard as
 a cannon-ball!--it lasted a long time, and was something to remember!
@@ -454,7 +430,7 @@ mark out a claim, and certainly found the richest hole we had yet had.
 The sinking was about fifteen or twenty feet, but gold was seen in a
 vein running through the wash-dirt. I used to pick out a match-box full
 of nuggets every day. I forget the exact quantity of gold we got out of
-it, but my own share came to more than £800 after the gold was sold.
+it, but my own share came to more than Â£800 after the gold was sold.
 
 We got very tired of paying thirty shillings a month for our licences,
 and only took out one licence between the three of us, trusting to
@@ -546,7 +522,7 @@ insight as to how grog was brought to the diggings (it was prohibited
 in those days). Flour was imported from America in barrels; and when
 it reached Melbourne a two-gallon keg of spirits was put in the centre
 of the flour, and the barrel with its double load was sent off to the
-diggings. The fine for having spirits in your possession was £50, and
+diggings. The fine for having spirits in your possession was Â£50, and
 all the liquor confiscated. My Cape friend, wishing to pay a visit to
 Melbourne, asked me to take charge of the store during his absence. I
 did so, and served out tea and sugar to his customers, bought gold,
@@ -640,7 +616,7 @@ on the Ovens River. Mrs. Mackay was very ill, and the doctor, who was a
 tall, slight man, was by no means strong.
 
 The doctor had sold a number of horses, and had received cash for them.
-He had this money, some £700, in his house, and in some way this fact
+He had this money, some Â£700, in his house, and in some way this fact
 had become known to, amongst others, a most notorious burglar named
 Meakin. There were other visitors staying in the house on this night, a
 Mrs. H. and a Miss D., the latter a niece of Dr. Mackay. I had a bed
@@ -707,7 +683,7 @@ fastened his legs and arms, and sent to Beechworth for a constable. On
 being informed of this, the man, who proved to be Meakin, a notorious
 criminal, remained quite still until morning, when he was sent to
 Beechworth. Meakin told me he had heard that Dr. Mackay had sold a
-number of horses a few days before, having been paid £600 in cash for
+number of horses a few days before, having been paid Â£600 in cash for
 them, and it was his intention to have robbed him and tied his feet and
 hands so that he could not move till the morning, nor give information
 to the police--by that time he would have retired to the mountains. He
@@ -766,7 +742,7 @@ had also been saved. The owner of the store was addicted to drink, and
 as he was missing it was generally believed that he had been burnt,
 as his body was nowhere to be found. The coroner of the district was
 communicated with; he came to the spot, and pointed out to the police
-some calcined bones amongst the _débris_. He ordered a box to be
+some calcined bones amongst the _dÃ©bris_. He ordered a box to be
 brought, and he and the constable set to work to collect the bones, and
 taking them to the nearest hotel, called a jury and held an inquest.
 The coroner declared them to be the bones of a human being, and the
@@ -1278,7 +1254,7 @@ highest compliment on the manner in which I had conducted the business.
 
 CHAPTER III.
 
- Power the Bushranger--His Escape--The Squatter's Gold Watch--£500
+ Power the Bushranger--His Escape--The Squatter's Gold Watch--Â£500
  Blood-money--A Peacock as a Sentinel--Caught by the Heels--Some of
  Power's Adventures--His Sentence--Gamekeeper to Sir William Clarke.
 
@@ -1363,14 +1339,14 @@ very kind to him, and as he naturally felt very much hurt at being
 robbed in this way, we could not have stayed at a house where we were
 more welcome. Power had sent a message to this gentleman (the squatter)
 that if he was anxious to get his watch he would return it to him if
-he sent £15. The difficulty we had to contend with was to get some
+he sent Â£15. The difficulty we had to contend with was to get some
 trusty person, who had Power's confidence, to take the money to him and
 bring back the watch. After a day or two we were introduced to a man
 whom I must call L----. It was a very delicate matter we had on hand,
 but my brother officer, who was used to dealing with men of this kind,
 undertook the task.
 
-The Government had offered a reward of £500 for the capture of Power,
+The Government had offered a reward of Â£500 for the capture of Power,
 and my brother officer offered this tempting bait to L----. The man
 threw all kinds of difficulties in the way, but we both stuck to him,
 till at last he gave way and consented to undertake the task. We had
@@ -1379,7 +1355,7 @@ first thing we had to do was to find a route in the mountains where we
 could travel unseen, as Power had so many spies--"bush telegraphs," as
 they were called--throughout the district, that had we been seen by any
 one, our chances of success would have been small. The next thing was,
-to get the £15 from the squatter to send to Power. I put my initials
+to get the Â£15 from the squatter to send to Power. I put my initials
 on the coins, and we started away on Thursday morning, the party
 consisting of L---- as guide, my brother officer, myself, my clerk, and
 a black-fellow.
@@ -1444,7 +1420,7 @@ These Quinns were the only people in the colony who knew where Power
 was hidden. L---- used to be a great companion of Power, and used to
 be paid well, both in horses and money, for any information concerning
 the movements of the police, but the temptation of getting the reward
-of £500 was too much for him, so he consented to sell his friend
+of Â£500 was too much for him, so he consented to sell his friend
 for the blood-money. We then took counsel with L---- as to the best
 course to adopt in order to reach Power's place of concealment. L----
 suggested waiting till Sunday night, forgetting that our party had had
@@ -1652,7 +1628,7 @@ calling out, "I am Power, the bushranger," at the same time covering
 him with his double-barrelled gun. The drayman pulled up his horses,
 and Power demanded his money, but the driver, who proved himself to
 be a Scotchman, most positively declined to hand it over. He said, "I
-have worked hard for my money, and have only £9 upon me, and nothing in
+have worked hard for my money, and have only Â£9 upon me, and nothing in
 the world will induce me to give it up." Power replied, "You see all
 these gentlemen here," pointing to the drivers of the other waggons,
 "have given me up all their money, and you will have to do the same."
@@ -1705,7 +1681,7 @@ to him.
 
 Our guide, L----, I never saw again after leaving him at the hollow
 tree the morning of Power's capture. I had letters from him, and paid
-the £500 reward promised to him, to a gentleman he named, who paid him
+the Â£500 reward promised to him, to a gentleman he named, who paid him
 portions of the sum as he required it, but he made no good use of the
 money. He squandered it, and it became known in the district that he
 had informed against Power, in consequence of his having so much money
@@ -1716,7 +1692,7 @@ Power himself never suspected L----, but thought the Quinns had given
 information, or, as it is termed, "put him away;" he thought it quite
 impossible for our party to have passed Quinn's house unobserved.
 
-I might add that afterwards the squatter who had given us £15 to obtain
+I might add that afterwards the squatter who had given us Â£15 to obtain
 his watch, and through whose instrumentality the capture was made, sent
 in an application to the Government to refund the amount, but the Chief
 Secretary point blank refused the request.
@@ -2142,7 +2118,7 @@ Kelly's hut and there set on by a number of people, and in the scuffle
 Ned Kelly shot him in the wrist. Mrs. Kelly, the mother of Ned and
 Dan, with two or three others, was subsequently arrested, tried, and
 convicted for aiding in the shooting of Fitzpatrick, and received long
-sentences. Warrants were then issued, and a reward of £100 offered for
+sentences. Warrants were then issued, and a reward of Â£100 offered for
 the arrest of Ned and Dan Kelly. For some months nothing was heard of
 them; they were doubtless in the district, but the police could not lay
 their hands on them, although every effort was made to capture them.
@@ -2312,7 +2288,7 @@ Standish then obtained authority to purchase from a gun-maker in
 Melbourne a large number of shot-guns, breech-loaders, and these were
 sent to the north-eastern district, and were well adapted for the
 purpose, and the men felt great confidence in using them. Each of these
-breech-loading shot-guns cost the Government about £8. However, we had
+breech-loading shot-guns cost the Government about Â£8. However, we had
 to purchase some reliable weapons, and these shot-guns were considered
 the best, especially for inexperienced men.
 
@@ -2349,7 +2325,7 @@ murdered men. The police had good Webley revolvers, a Spencer carbine,
 and two shot-guns, the latter borrowed from some one at Mansfield. The
 police horses were also taken away by the gang.
 
-The Government immediately offered a reward of £1000 for information
+The Government immediately offered a reward of Â£1000 for information
 that would lead to the apprehension of the offenders, they were
 outlawed, and every inducement was given to people to inform against
 them. After the murders the first information that was received
@@ -2458,7 +2434,7 @@ covered with thick scrub, and heavily timbered for thirty or forty
 miles, reaching to near Mansfield, giving excellent cover for any
 persons trying to escape justice.
 
-About noon on Monday, the 18th of December 1878, an _employé_ named
+About noon on Monday, the 18th of December 1878, an _employÃ©_ named
 Fitzgerald, on Mr. Younghusband's station, was sitting in the hut
 eating his dinner, when a man who looked like an ordinary bushman
 quietly sauntered up to the door, and taking his pipe out of his mouth
@@ -2472,7 +2448,7 @@ some person in the distance. About five minutes afterwards, two more
 rough-looking characters joined the bushman; they were leading four
 very fine horses, in splendid condition, they were three bays and a
 gray. The three men went to the homestead, which was close to the hut,
-and walked in. They met Mrs. Fitzgerald, the wife of the _employé_
+and walked in. They met Mrs. Fitzgerald, the wife of the _employÃ©_
 already mentioned, who was engaged in some household duties.
 
 The old dame was considerably surprised at the strangers walking in
@@ -2716,8 +2692,8 @@ and had he picked it up, he would have been shot dead on the spot.
 Scott did not at first throw up his arms, but they pretty soon made him
 do so. Ned Kelly then went back to the bank, and left Hart in charge
 of Scott, and ransacked the place, and took possession of all the cash
-that had been in use during the day, which amounted to between £300 and
-£400 in notes, gold, and silver.
+that had been in use during the day, which amounted to between Â£300 and
+Â£400 in notes, gold, and silver.
 
 Kelly next went over the private apartments where Mr. Scott's family
 and servants were, and Scott cautioned him concerning his behaviour
@@ -2732,7 +2708,7 @@ his commands, and told all the children and servants to put on their
 hats, as they were all obliged to go for a drive. Kelly went back into
 the bank, and told Scott he knew there was more money in the bank, and
 he insisted upon having it. The accountant opened the safe, and Kelly
-took £1500 in notes, 300 sovereigns, £90 in silver, and thirty ounces
+took Â£1500 in notes, 300 sovereigns, Â£90 in silver, and thirty ounces
 of gold-dust. He then went into the strong-room, but left the bills and
 securities undisturbed. Kelly often said whilst in the bank, that it
 was no use resisting them, as he had eight armed men outside the bank,
@@ -2946,7 +2922,7 @@ CHAPTER VII.
 
  The Police at Euroa--Aaron Sherritt--Jerilderie--Capture of the
  Police Station and Constables--Amateur Policemen--The Royal Hotel
- stuck up--Raid on the Bank of New South Wales--£2000 taken--Kelly's
+ stuck up--Raid on the Bank of New South Wales--Â£2000 taken--Kelly's
  Autobiography--His Account of the Fitzpatrick Affair--Departure of the
  Gang--Return to their Haunts.
 
@@ -3028,7 +3004,7 @@ food, and guarded them against surprise. I had never seen Sherritt
 until that evening, and somehow or other I made a most wonderful
 impression upon him. I had some drink with him, and saw that my
 influence over him was very great. After being in his company a couple
-of hours, and undertaking to give him the £4000 reward that had been
+of hours, and undertaking to give him the Â£4000 reward that had been
 offered for the apprehension of the outlaws, I got him to promise he
 would show me where they were to be found. He told me Joe Byrne and
 Dan Kelly had called at his house two days before, and wanted him to
@@ -3145,8 +3121,8 @@ brought over Dan Kelly, and left him in the bath-room in charge of the
 manager. Ned then took charge of Living, led him into the bank, and
 asked him what money they had in their keeping. Living replied, "There
 is between six and seven hundred pounds." Kelly replied, "You must
-have at least £10,000 here." Living then handed him the teller's cash,
-amounting to £691.
+have at least Â£10,000 here." Living then handed him the teller's cash,
+amounting to Â£691.
 
 At this time a Mr. Elliot, the local school-master, entered the bank,
 quite unconscious of what was going on within, when Ned Kelly covered
@@ -3160,7 +3136,7 @@ was in it, and Living said nothing of any value. Kelly insisted upon
 it being opened, and Living gave him one of the keys. Byrne wished to
 smash the safe, but Ned Kelly brought in the manager, who had been
 taken over to the hotel, and compelled him to give up the second key.
-The safe was then opened, when the sum of £1450 was taken out and
+The safe was then opened, when the sum of Â£1450 was taken out and
 placed in the bag.
 
 Kelly then took down a large tin box from the shelf; he was told it was
@@ -3357,9 +3333,9 @@ did not like to trust to my memory as to the numerous incidents that
 occurred during that exciting time.
 
 The Government of New South Wales, together with the banks of that
-colony, offered an additional reward of £1000 for the apprehension
+colony, offered an additional reward of Â£1000 for the apprehension
 of each of the outlaws, making the sum offered by the two colonies
-£8000. Sherritt told me, at my first interview with him, that he was
+Â£8000. Sherritt told me, at my first interview with him, that he was
 the principal agent of the outlaws in that part of the district,
 and everything that was known about them by their friends would be
 communicated to him. Besides which he was at this time engaged to
@@ -3650,7 +3626,7 @@ I was sitting beside him one night, when he had brought us some very
 hopeful information, and we were all very elated at our prospect of
 success. I said, "Well, Aaron, I feel sure you will get the reward
 offered for the Kellys." (I had promised him he should have the whole
-sum of £8000 if it was upon his information that the Kellys were
+sum of Â£8000 if it was upon his information that the Kellys were
 captured.) At this time his young woman was getting rather suspicious
 that he was working for the police, although she used to meet him of an
 evening very near our camp and walk with him. I asked him how he would
@@ -3718,7 +3694,7 @@ reported that a valuable horse of hers had been stolen from Woolshed,
 and, after inquiry by the police, it was found in the possession of
 Mrs. Skillian, Ned Kelly's sister. She produced a receipt for it, as
 having purchased it from Aaron, and signed by him, for the small sum
-of £3 or £4. Mrs. Byrne obtained a warrant for Aaron's arrest, for
+of Â£3 or Â£4. Mrs. Byrne obtained a warrant for Aaron's arrest, for
 they all suspected he was then a spy of mine. I spoke to Aaron on the
 subject, and he admitted that he had taken the horse and sold it to
 Mrs. Skillian. He said, "I could not help doing this. I did not want
@@ -6073,7 +6049,7 @@ On reaching a place of safety they stated that Dan Kelly and Hart were
 lying upon the floor apparently dead. Nothing, however, could be done
 to rescue their remains from the fire. Soon afterwards the building was
 completely demolished, and on a search being made amongst the ruins,
-two charred skeletons were raked out from the smouldering _débris_.
+two charred skeletons were raked out from the smouldering _dÃ©bris_.
 Wild, Wright, Hart (the brother of Steve), and other well-known friends
 were witnesses of this terrible scene. All the bushrangers were clad
 in the same kind of armour as that worn by Ned Kelly, which weighed as
@@ -6410,9 +6386,9 @@ Mr. Hare, who had been engaged in the capture of Power, the notorious
 bushranger, was spoken to as to his filling the vacancy. In Mr.
 Ramsay's opinion he had been very badly treated, inasmuch as he had
 not received any recognition of the services he had rendered to the
-colony on that occasion. He had had his salary increased by £100 a year
+colony on that occasion. He had had his salary increased by Â£100 a year
 at the time that Superintendent Winch's was also added to, but under
-the _régime_ of the late Government his salary had been reduced by
+the _rÃ©gime_ of the late Government his salary had been reduced by
 Parliament, whilst Mr. Winch's was continued. He was regarded as being
 specially qualified for the duty which he was required to perform, and
 he was instructed to choose the best men and officers in the force with
@@ -6430,7 +6406,7 @@ white police preceded them and effaced the tracks, they could not do
 their work.
 
 The outlaws were disposed of in time to give the police a claim to the
-reward of £8000 offered by the Governments of Victoria and New South
+reward of Â£8000 offered by the Governments of Victoria and New South
 Wales. For it was notified on the 20th of April that the reward would
 be withdrawn on the 20th of July.
 
@@ -6532,7 +6508,7 @@ and go to the spot, and finish off those who had escaped.
 
 The line was taken up about half a mile from Glenrowan. They would then
 have started off to Benalla, robbed all the banks, and probably secured
-£4000 or £5000. If they had worn their armour with overcoats they might
+Â£4000 or Â£5000. If they had worn their armour with overcoats they might
 have been shot at fifty times without being injured. They had arranged
 to have placed one of their number on the bridge in Benalla, so as to
 prevent any person giving information concerning them. The police were
@@ -6554,7 +6530,7 @@ money.
 
 About a fortnight before they were captured, I was speaking to the
 owner of a hotel not far from Glenrowan. He told me the outlaws were
-in debt to him to the amount of £26. I asked him how he ever expected
+in debt to him to the amount of Â£26. I asked him how he ever expected
 to be paid. He replied--"Oh, they will get another bank some of these
 days." I said to him, "I suppose you will be very sorry when they are
 captured?" "No," he said, "I won't. I am getting tired of them. They
@@ -6706,7 +6682,7 @@ return was asked for in the Legislative Assembly showing the cost of
 effecting the capture of the outlaws, and it was then stated that a
 sum of thirty or forty thousand pounds had been spent; whereas if the
 salaries and wages of those engaged in the search had been included in
-this estimate, the cost would have been over £115,000--a large price
+this estimate, the cost would have been over Â£115,000--a large price
 to pay for the capture of four desperadoes and the destruction of a
 gang of malefactors. However, this apparently excessive expenditure
 on a series of thief-catching expeditions has had results which reach
@@ -6735,367 +6711,4 @@ destroyed the "Last of the Bushrangers."
 End of the Project Gutenberg EBook of The Last of the Bushrangers, by 
 Francis Augustus Hare
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE LAST OF THE BUSHRANGERS ***
-
-***** This file should be named 57026-8.txt or 57026-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/0/2/57026/
-
-Produced by deaurider, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-book was produced from images made available by the
-HathiTrust Digital Library.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57026 ***
